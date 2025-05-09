@@ -1,27 +1,37 @@
-# JavaCar - Marel Feliu i Arnau García  
 
-Aquest projecte és una aplicació de gestió de lloguer de vehicles, que permet als usuaris llogar i retornar vehicles de manera eficient, i als administradors gestionar el sistema i calcular els ingressos.  
+# JavaCar
 
-## Funcionalitats  
+JavaCar is a vehicle rental management application that enables users to rent and return vehicles efficiently, and allows administrators to manage the fleet and calculate revenue.
 
-### Client  
-- Autenticació  
-- Veure vehicles disponibles  
-- Filtrar vehicles per preu  
-- Llogar un vehicle  
-- Veure vehicles llogats  
-- Tornar un vehicle  
+## Features
 
-### Administrador  
-- Autenticació  
-- Veure tots els vehicles   
-- Calcular ingressos totals i per període  
-- Afegir vehicles
-- Modificar vehicles
-- Descatalogar vehicles 
+### Client
 
-## Estructura del projecte  
-El codi segueix un enfocament basat en Programació Orientada a Objectes (POO), utilitzant classes, enums, interfícies i estructures estàtiques per organitzar les funcionalitats. A més, s'utilitzen fitxers per emmagatzemar informació dels lloguers i els vehicles disponibles.  
+* Authentication
+* View available vehicles
+* Filter vehicles by price
+* Rent a vehicle
+* View rented vehicles
+* Return a vehicle
 
-Aquest projecte ha estat desenvolupat amb un enfocament modular per facilitar-ne l'escalabilitat i manteniment.  
+### Administrator
 
+* Authentication
+* View all vehicles
+* Calculate total and period-based revenue
+* Add vehicles
+* Modify vehicles
+* Decommission vehicles
+
+## Project Structure
+
+The code is structured using an **Object-Oriented Programming (OOP)** approach. It includes:
+
+* Classes, enums, and interfaces
+* Static structures to organize features
+The project follows a **modular design** to improve scalability and maintainability.
+
+## Authors
+
+* Marcel Feliu
+* Arnau García
